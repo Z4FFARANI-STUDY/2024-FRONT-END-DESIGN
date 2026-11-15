@@ -1,5 +1,3 @@
-![banner](./assets/banner.png)
-
 # CRIADOR
 - **[Kaique Zaffarani](https://github.com/Z4ffarani)**
 
@@ -53,7 +51,7 @@ O desenvolvimento de front-end design é uma combinação de arte e ciência, qu
 <br>
 
 # OBSERVAÇÕES
-- Este projeto é uma coletânea de anotações e exemplos práticos desenvolvidos durante o estudo de front-end design. Inclui conceitos básicos e avançados, exemplos de código, boas práticas e exercícios resolvidos. O objetivo é organizar e consolidar o conhecimento adquirido, servindo como exemplo para desenvolvedores que desejam aprofundar suas habilidades em front-end.
+- O projeto consiste em uma coleção de anotações realizadas durante aulas ao longo do ano letivo na instituição **[FIAP](https://www.fiap.com.br)**. Essas anotações incluem conceitos principais abordados na disciplina, resumos de conteúdos, exemplos práticos e exercícios resolvidos. O objetivo é organizar e consolidar o conhecimento adquirido em sala de aula, servindo como material de apoio para revisões e estudos futuros.
 
 <br>
 

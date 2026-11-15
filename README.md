@@ -60,12 +60,12 @@ O desenvolvimento de front-end design é uma combinação de arte e ciência, qu
 # INSTRUÇÕES
 1. Em um terminal, clonar o repositório:
 ```bash
-git clone https://github.com/Z4FFARANI-STUDY/FRONT-END-DESIGN.git
+git clone https://github.com/Z4FFARANI-STUDY/2024-FRONT-END-DESIGN.git
 ```
 
 2. No terminal, navegar até a pasta do projeto:
 ```bash
-cd FRONT-END-DESIGN
+cd 2024-FRONT-END-DESIGN
 ```
 
 3. Acessar o conteúdo das aulas adiante da pasta `SEM1` ou `SEM2`.
